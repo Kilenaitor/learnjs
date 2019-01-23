@@ -1,0 +1,14 @@
+{
+  "name": "learnjs",
+  "version": "1.0.0",
+  "description": "Repository for learning programming through JavaScript",
+  "repository": "git@github.com:Kilenaitor/learnjs.git",
+  "author": "Kyle Minshall <kyleminshall@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^23.6.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
