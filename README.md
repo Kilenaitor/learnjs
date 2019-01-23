@@ -46,7 +46,7 @@ When you are satisfied with your solution, save the file.
 
 After writing your code, run the command `yarn test` which will kick off the test suite for all the lessons.
 
-If you only want to run a single lesson, just run `yarn test <lesson>.js`.
+If you only want to run a single lesson, just run `yarn test <lesson>/`.
 Otherwise _all_ of them will be run by default.
 
 If you see zero (0) failures, hooray! You successfully implemented the correct solution.
