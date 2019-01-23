@@ -51,3 +51,7 @@ Otherwise _all_ of them will be run by default.
 
 If you see zero (0) failures, hooray! You successfully implemented the correct solution.
 If you see any failures, it means you have bugs in your solution.
+
+Successful output:
+
+![](https://i.imgur.com/Q8nE7at.png)
